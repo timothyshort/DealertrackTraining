@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="DealerTrack Suite" parallel="false">
+  <test name="Test Frameworks Demos">
+    <classes>
+      <class name="com.dealertrack.testframeworks.TestNGwithDataProvider"/>
+    </classes>
+  </test>
+  <test name="Smoke Tests">
+    <classes>
+      <class name="com.dealertrack.testframeworks.TestNGTesting"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

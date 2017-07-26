@@ -1,0 +1,9 @@
+2017-07-18 16:18:33,840 INFO  [LoggingwithLog4j] I'm writing to the log file now 
+2017-07-18 16:20:19,051 INFO  [LoggingwithLog4j] I'm writing to the log file now 
+2017-07-18 16:20:19,051 WARN  [LoggingwithLog4j] Here's a warning message 
+2017-07-18 16:20:19,051 ERROR [LoggingwithLog4j] This is an error message 
+2017-07-18 16:20:19,051 FATAL [LoggingwithLog4j] This is a FATAL message 
+2017-07-18 16:22:24,271 INFO  [LoggingwithLog4j] I'm writing to the log file now 
+2017-07-18 16:22:24,271 WARN  [LoggingwithLog4j] Here's a warning message 
+2017-07-18 16:22:24,271 ERROR [LoggingwithLog4j] This is an error message 
+2017-07-18 16:22:24,272 FATAL [LoggingwithLog4j] This is a FATAL message 
