@@ -18,9 +18,9 @@ public class Database {
 		// Define connection string
 		String connectionString;
 		String server = "jdbc:sqlserver://sql2k801.discountasp.net:1433";
-		String databaseName = "SQL2008_841902_tr";
-		String username = "SQL2008_841902_tr_user";
-		String password = "52645264hrm";
+		String databaseName = "";
+		String username = "";
+		String password = "";
 		connectionString = server + ";databasename=" + databaseName + ";username=" + username + ";password=" + password;
 		System.out.println(connectionString);
 
